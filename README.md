@@ -11,7 +11,7 @@ This repository serves as a central hub for my projects and developments. From c
 
 ## 🛠️ Projects  
 ### **CyberSpartans**  
-My current work includes the **CyberSpartans** project, a comprehensive collection of tools, systems, and resources for ethical hacking and cybersecurity.  
+My current work includes the **CyberSpartans** project, a comprehensive collection of tools, systems, and resources for ethical hacking and cybersecurity. I've personally developed these tools for the CyberSecurity Growth Community.
 
 Explore the full project here:  
 - [CyberSpartans Repository](https://github.com/Hedleys-Projects/cyberspartans)  
