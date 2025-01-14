@@ -4,7 +4,7 @@ Welcome to the **Certifications** branch of my portfolio repository! This branch
 
 ## Cisco Badge 🌐
 
-Here is my Cisco certification badge:
+Here are my Cisco certification badges:
 
 <img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Cisco Badge" width="200"/>
 <img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/junior-cybersecurity-analyst-career-path.1.png" alt="Junior Cybersecurity Analyst Career Path" width="200"/>
