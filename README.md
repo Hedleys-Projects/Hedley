@@ -1,6 +1,6 @@
 # 👨‍💻 Hedley's Project Portfolio 🌟
 
-Welcome to my personal GitHub portfolio! I'm Hedley, a cybersecurity enthusiast and developer focused on creating innovative solutions to empower professionals in the field. Here, you'll find an overview of my projects, contributions, and ongoing work in the world of cybersecurity. My Legal Name is Ethan Gray however, I go by Isaiah Hedley. 
+Welcome to my personal GitHub portfolio! I'm Hedley, a cybersecurity enthusiast and developer focused on creating innovative solutions to empower professionals in the field. Here, you'll find an overview of my projects, contributions, and ongoing work in the world of cybersecurity. 
 
 ---
 
