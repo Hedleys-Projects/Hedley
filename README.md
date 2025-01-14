@@ -1,16 +1,12 @@
 # Certifications 🏅
 
-Welcome to the **Certifications** branch of my portfolio repository! This branch includes all the certifications I have earned. You will find the actual certificates attached here.
+Welcome to the **Certifications** branch of my portfolio repository! This branch includes all the certifications I have earned, including my Cisco badge.
 
-## Overview 📜
+## Cisco Badge 🌐
 
-This section provides proof of my professional development and learning journey in the field of cybersecurity and related technical areas. Each certification document is attached to the repository for your reference.
+Here is my Cisco certification badge:
 
----
-
-## Why Certifications Matter 💡
-
-Certifications are an important part of my professional journey, demonstrating my expertise, skills, and dedication to continual learning in the ever-evolving field of cybersecurity.
+![Cisco Badge](https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png)
 
 ---
 
