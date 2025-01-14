@@ -1,39 +1,17 @@
-# 👨‍💻 Hedley's Project Portfolio 🌟
+# Certifications 🏅
 
-Welcome to my personal GitHub portfolio! I'm Hedley, a cybersecurity enthusiast and developer focused on creating innovative solutions to empower professionals in the field. Here, you'll find an overview of my projects, contributions, and ongoing work in the world of cybersecurity.
+Welcome to the **Certifications** branch of my portfolio repository! This branch includes all the certifications I have earned. You will find the actual certificates attached here.
 
----
+## Overview 📜
 
-## 🚀 About This Portfolio  
-This repository serves as a central hub for my projects and developments. From cybersecurity tools to operating systems, my work reflects a passion for solving real-world problems and making impactful contributions to the cybersecurity community.
-
----
-
-## 🛠️ Projects  
-### **CyberSpartans**  
-My current work includes the **CyberSpartans** project, a comprehensive collection of tools, systems, and resources for ethical hacking and cybersecurity. I've personally developed these tools for the CyberSecurity Growth Community.
-
-Explore the full project here:  
-- [CyberSpartans Repository](https://github.com/Hedleys-Projects/cyberspartans)  
-   - **Spartan OS BETA**: [Link](https://github.com/Hedleys-Projects/cyberspartans/tree/SpartanOS-BETA-Version-1.0.13)  
-   - **Spartan Tools**: [Link](https://github.com/Hedleys-Projects/cyberspartans/tree/Tools)  
-
-Stay tuned for more exciting updates and releases!  
+This section provides proof of my professional development and learning journey in the field of cybersecurity and related technical areas. Each certification document is attached to the repository for your reference.
 
 ---
 
-## 📂 How to Use This Repository  
-This portfolio is a collection of all my work, with direct links to repositories and projects I’ve been building. Browse through to discover tools, operating systems, and resources designed to address challenges in the cybersecurity world.  
+## Why Certifications Matter 💡
+
+Certifications are an important part of my professional journey, demonstrating my expertise, skills, and dedication to continual learning in the ever-evolving field of cybersecurity.
 
 ---
 
-## 🌟 Connect With Me  
-While I’m currently not on LinkedIn, feel free to explore my repositories and reach out via GitHub for collaborations or feedback.
-
----
-
-### ⭐️ Support My Work  
-If you find my projects helpful, please consider starring the repositories and sharing them with others in the cybersecurity community. Your support means a lot!  
-
-
-### -- Hedley
+Thank you for reviewing my **Certifications** branch! 🙌
