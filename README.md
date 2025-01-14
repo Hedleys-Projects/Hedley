@@ -6,7 +6,7 @@ Welcome to the **Certifications** branch of my portfolio repository! This branch
 
 Here is my Cisco certification badge:
 
-![Cisco Badge](https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png)
+<img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Cisco Badge" width="200"/>
 
 ---
 
