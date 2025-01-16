@@ -6,9 +6,11 @@ Welcome to the **Certifications** branch of my portfolio repository! This branch
 
 Here are my Cisco certification badges:
 
-<img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Cisco Badge" width="200"/>
-<img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/junior-cybersecurity-analyst-career-path.1.png" alt="Junior Cybersecurity Analyst Career Path" width="200"/>
-<img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity Badge" width="200"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/3d237b16-c5c6-4650-918d-6b7b6dfe6ddd.png" alt="Cisco Badge" width="200"/>
+  <img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/junior-cybersecurity-analyst-career-path.1.png" alt="Junior Cybersecurity Analyst Career Path" width="200"/>
+  <img src="https://github.com/Hedleys-Projects/Hedley/blob/Certifications/Images/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity Badge" width="200"/>
+</div>
 
 ---
 
